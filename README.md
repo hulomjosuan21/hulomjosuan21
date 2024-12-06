@@ -23,14 +23,10 @@
 - Integrating **APIs** in web applications
 
 ### 💬 Ask me about:
-- React and frontend development
-- How to start contributing to open-source
-- Study tips for computer science students
+- How I self-taught web development and programming
 
 ### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [hulomjosuan@gmail.com)
 
 ### 😄 Pronouns:
 - He/Him
@@ -44,8 +40,7 @@
 
 #### 🌟 Featured Repositories:
 
-- [Project 1: React App](https://github.com/yourusername/project1) - A web app built with React
-- [Project 2: Next.js Portfolio](https://github.com/yourusername/project2) - A dynamic portfolio built with Next.js
+- [Project 1: Bogo Basketball League Network]([https://github.com/yourusername/project1](https://github.com/hulomjosuan21/system-analytics-and-design-final)) - A web app built with React
 
 ---
   
