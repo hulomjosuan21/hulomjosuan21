@@ -38,10 +38,6 @@
 
 ---
 
-#### 🌟 Featured Repositories:
-
-- [Project 1: Bogo Basketball League Network]([https://github.com/yourusername/project1](https://github.com/hulomjosuan21/system-analytics-and-design-final)) - A web app built with React
-
 ---
   
 **Let's connect and build something awesome together!** 😄
