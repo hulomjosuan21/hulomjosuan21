@@ -37,7 +37,5 @@
 - I'm a tech enthusiast who loves experimenting with new frameworks and libraries. When I'm not coding, you’ll find me playing games like league of legends!
 
 ---
-
----
   
 **Let's connect and build something awesome together!** 😄
