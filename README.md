@@ -34,7 +34,7 @@
 ---
 
 ⚡ Fun fact:  
-- I'm a tech enthusiast who loves experimenting with new frameworks and libraries. When I'm not coding, you’ll find me playing games like league of legends!
+- I'm a tech enthusiast who loves experimenting with new frameworks and libraries. When I'm not coding, you’ll find me playing Once Human!
 
 ---
   
