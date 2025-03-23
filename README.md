@@ -10,7 +10,7 @@
 - Exploring new web technologies and best practices
 
 ### 🌱 I’m currently learning:
-- **React**, **Next.js** and **Python ML**
+- **Next.js**, **Python ML** & **React Native**
 - Web optimization and performance best practices
 - TypeScript to level up my coding skills
 
