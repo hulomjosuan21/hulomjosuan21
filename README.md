@@ -22,7 +22,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Once Human](https://img.shields.io/badge/Once_Human-000000?style=for-the-badge)
 ---
 
 ### 🌱 I’m currently learning:
