@@ -41,7 +41,7 @@
 - How I self-taught web development and programming
 
 ### 📫 How to reach me:
-- Email: [hulomjosuan@gmail.com)
+- Email: [hulomjosuan@gmail.com]
 
 ### 😄 Pronouns:
 - He/Him
