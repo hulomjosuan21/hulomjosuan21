@@ -1,7 +1,7 @@
 # Hi there, I'm Josuan 👋
 
 👨‍💻 **3rd Year Bachelor of Science in Information Technology Student**  
-🎓 Passionate about web development, technology, and continuous learning!
+🎓 Passionate about software development, technology, and continuous learning!
 
 ---
 
