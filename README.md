@@ -4,6 +4,9 @@
 🎓 Passionate about software development, technology, and continuous learning!
 
 ---
+## Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
 ### 🔭 Currently working on:
 - Building projects with **React** and **Next.js**
